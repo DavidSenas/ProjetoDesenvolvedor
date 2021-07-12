@@ -10,7 +10,8 @@ try:
         for x in c:
             print(x)
 except:
-    print("Erro na criação do bando")
+    print("Erro na criação do banco")
 else:
-    print("Banco criaçao do sucesso")
+    print("Banco criado com sucesso")
 
+ 
